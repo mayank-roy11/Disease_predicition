@@ -49,4 +49,15 @@ This project leverages machine learning models to predict the presence of **Diab
 ## 🧪 Model Accuracy Summary
 
 Each dataset is evaluated with both Random Forest and KNN classifiers. Example output:
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/dd8ca24b-a11c-428a-9fbc-59076f9b4d48" />
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/8a72591c-f2eb-41f9-b2a0-3783c1e08695" />
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/56582092-7402-42ca-8515-50e26954ea78" />
+<img width="376" height="284" alt="image" src="https://github.com/user-attachments/assets/859492cd-c503-4ae8-a8e5-29ecf8c55f33" />
+<img width="500" height="380" alt="image" src="https://github.com/user-attachments/assets/decf5113-f540-4d76-a15a-7738a72e7391" />
+
+
+<img width="500" height="500" alt="Screenshot 2025-08-15 215646" src="https://github.com/user-attachments/assets/9b59ffe7-cf65-459c-93e1-4bd610dfadd8" />
+
+
+
 
